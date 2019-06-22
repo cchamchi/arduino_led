@@ -5,5 +5,5 @@ This code is for **arduino LED**
 
 * audino
 * led
-* line
+* wire
 * bread board
