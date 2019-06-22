@@ -18,4 +18,4 @@ void setup(){
 }
 
 ```
-[naver](www.naver.com)를 눌러보세요
+[naver](https://www.naver.com)를 눌러보세요
