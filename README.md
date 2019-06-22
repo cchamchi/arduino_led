@@ -24,7 +24,6 @@ void setup(){
 
 
 |parts|price|
-|-|-|
 |arduino|$20|
 |wire|$1|
 |led|$0.5|
